@@ -1,0 +1,4 @@
+- Go to server folder
+- npm cd graphql-playlist
+- npm cd server
+- nodemon app
