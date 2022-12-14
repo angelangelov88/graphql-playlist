@@ -31,7 +31,6 @@ function BookList(props) {
       <ul id="book-list">
         {displayBooks(props)}
       </ul>
-      
     </div>
   );
 }

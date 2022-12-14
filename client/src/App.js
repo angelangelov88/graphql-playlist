@@ -1,5 +1,5 @@
 import BookList from "./components/BookList";
-import { ApolloClient, InMemoryCache, ApolloProvider, gql } from '@apollo/client';
+import { ApolloClient, InMemoryCache, ApolloProvider } from '@apollo/client';
 import AddBook from "./components/AddBook";
 
 // apollo client setup
